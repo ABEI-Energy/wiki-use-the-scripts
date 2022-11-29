@@ -1,7 +1,7 @@
 # wiki-use-the-scripts
 This repository explains how to configure your laptop in order to use the different scripts within the organization.
 
-If you have never coded before or have a faint notion of what is it, keep yourself here for further explanation. In case you already know the gist, then check out this repo better [How to git](https://github.com/ABEI-Energy/wiki-how-to-git).
+If you have never coded before or have a faint notion of what is it, keep yourself here for further explanation. In case you already know the gist, then check out [this repo](https://github.com/ABEI-Energy/wiki-how-to-git).
 
 ## Set up
 To run the programs, you need an environment to work within. You can download VS Code from their website [Download VS Code](https://code.visualstudio.com/), just select the download the site offers in the first place.
